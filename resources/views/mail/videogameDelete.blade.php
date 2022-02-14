@@ -1,0 +1,1 @@
+Il gioco "{{ $videogame -> title }}" è stato eliminato dalla libreria
